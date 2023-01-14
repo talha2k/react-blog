@@ -16,7 +16,7 @@ To create a new React app for posts and components, you can use the **create-rea
 
 &bull; Run the command **create-react-app react-blog**, where "**react-blog**" is the name of your new app.
 
-&bull; After the command finishes running, navigate into your new app's directory with the command **cd my-app**.
+&bull; After the command finishes running, navigate into your new app's directory with the command **cd react-blog**.
 
 &bull; To start the development server, run the command **npm start**. This will start the server and open your app in a browser window.
 You can now start building your posts and components in the src directory of your app. You can also install additional packages and libraries using npm to help with your development.
